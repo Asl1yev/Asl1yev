@@ -1,5 +1,5 @@
 - 👋 Hi,my name is Ahmadjon
-- 🧑‍💻 I am a programmer
+- 🧑‍💻 I am a future programmer
 - 🐍 My favorite programming language is Python
 - 💞️ My hobbiy is writing code  for Website
 - ☝️ Don't dream of my motto, aim for it
