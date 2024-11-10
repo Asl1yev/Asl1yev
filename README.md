@@ -4,7 +4,7 @@
 - 💞️ My hobbiy is writing code  for Website
 - ☝️ Don't dream of my motto, aim for it
 - 🙌 I will be a programmer in the future In shaa alloh
-- prayer☪️, eat🍽, sleep🛏, code🧑‍💻, repeat🔁
+- prayer☪️, eat🍽, sleep🛏, code🧑‍💻, repeat🔁.
 
 <!---
 Asl1yev/Asl1yev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
