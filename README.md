@@ -1,7 +1,7 @@
 - 👋 Hi,my name is Ahmadjon
 - 🧑‍💻 I am a future programmer
 - 🐍 My favorite programming language is Python
-- 💞️ My hobbiy is writing code  for Website
+- 💞️ My hobby is writing code  for Website
 - ☝️ Don't dream of my motto, aim for it
 - 🙌 I will be a programmer in the future In shaa alloh
 - prayer☪️, eat🍽, sleep🛏, code🧑‍💻, repeat🔁.
