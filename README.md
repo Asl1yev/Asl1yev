@@ -1,12 +1,23 @@
-- 👋 Hi,my name is Ahmadjon
-- 🧑‍💻 I am a future programmer
-- 🐍 My favorite programming language is Python
-- 💞️ My hobby is writing code  for Website
-- ☝️ Don't dream of my motto, aim for it
-- 🙌 I will be a programmer in the future In shaa alloh!
-- prayer☪️, eat🍽, sleep🛏, code🧑‍💻, repeat🔁.
+💫 About Me:
+👋 Hi! I’m Ahmadjon, a Python Backend Developer.
 
-<!---
-Asl1yev/Asl1yev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I work with Python, Django, Django REST Framework, and FastAPI.
+
+🚀 Passionate about building backend systems, REST APIs, and learning new technologies.
+
+📚 Always learning, building, and improving.
+
+🌐 Socials:
+email
+
+💻 Tech Stack:
+Windows Terminal DjangoREST Django Postgres Python PowerShell Render FastAPI SQLite Canva Figma GitHub Git
+
+📊 GitHub Stats:
+
+
+
+
+
+
+
